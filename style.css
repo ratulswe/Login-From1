@@ -27,10 +27,16 @@ color: white;
 .textbox{
     width: 100%;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 18px;
     padding: 8px 0;
     margin: 8px 0;
     border-bottom: 1px solid #4caf50;
+}
+
+.textbox i{
+    width: 18px;
+    float: left;
+    text-align: center;
 }
 
 .textbox input{
